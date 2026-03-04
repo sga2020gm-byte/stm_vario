@@ -1,0 +1,4 @@
+../Src/kalman.c:31:10:Filter_K	64	static
+../Src/kalman.c:74:10:setAlt	0	static
+../Src/kalman.c:77:10:setQAccel	0	static
+../Src/kalman.c:78:10:setRmeasure	0	static

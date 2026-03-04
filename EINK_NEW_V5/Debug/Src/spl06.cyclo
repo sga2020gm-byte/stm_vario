@@ -1,0 +1,7 @@
+../Src/spl06.c:19:9:spl06_ID_read	1
+../Src/spl06.c:29:9:spl06_Init	7
+../Src/spl06.c:93:9:spl06_SetMode	1
+../Src/spl06.c:108:9:spl06_SetOSR	3
+../Src/spl06.c:152:7:spl06_ReadTemp	2
+../Src/spl06.c:169:7:spl06_ReadPressure	2
+../Src/spl06.c:194:7:pascalToCentimeter	2

@@ -1,0 +1,9 @@
+../Src/general_func.c:15:6:display_full_upd	24	static
+../Src/general_func.c:30:6:climb_calc	24	static
+../Src/general_func.c:55:6:filter_init	16	static
+../Src/general_func.c:66:6:display_inform	64	static
+../Src/general_func.c:158:6:display_fields	24	static
+../Src/general_func.c:171:6:Buzzer_Set	32	static
+../Src/general_func.c:197:6:Buzzer_inform	24	static
+../Src/general_func.c:243:6:Buzzer_inform_v2	32	static
+../Src/general_func.c:298:6:turn_of	24	static

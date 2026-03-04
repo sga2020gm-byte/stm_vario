@@ -1,0 +1,7 @@
+../Src/spl06.c:19:9:spl06_ID_read	24	static
+../Src/spl06.c:29:9:spl06_Init	40	static
+../Src/spl06.c:93:9:spl06_SetMode	32	static
+../Src/spl06.c:108:9:spl06_SetOSR	32	static
+../Src/spl06.c:152:7:spl06_ReadTemp	40	static
+../Src/spl06.c:169:7:spl06_ReadPressure	48	static
+../Src/spl06.c:194:7:pascalToCentimeter	24	static

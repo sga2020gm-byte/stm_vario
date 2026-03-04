@@ -1,0 +1,9 @@
+../Src/general_func.c:15:6:display_full_upd	3
+../Src/general_func.c:30:6:climb_calc	3
+../Src/general_func.c:55:6:filter_init	2
+../Src/general_func.c:66:6:display_inform	6
+../Src/general_func.c:158:6:display_fields	1
+../Src/general_func.c:171:6:Buzzer_Set	6
+../Src/general_func.c:197:6:Buzzer_inform	11
+../Src/general_func.c:243:6:Buzzer_inform_v2	15
+../Src/general_func.c:298:6:turn_of	1

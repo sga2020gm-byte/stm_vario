@@ -1,0 +1,14 @@
+../Drivers/CMSIS/Include/core_cm3.h:1876:26:ITM_SendChar	4
+../Src/main.c:71:5:_write	2
+../Src/main.c:101:6:init_30ms_callback	1
+../Src/main.c:105:6:my_30ms_function	1
+../Src/main.c:113:5:main	1
+../Src/main.c:202:6:SystemClock_Config	3
+../Src/main.c:241:13:MX_I2C1_Init	2
+../Src/main.c:275:13:MX_SPI1_Init	2
+../Src/main.c:313:13:MX_TIM1_Init	7
+../Src/main.c:388:13:MX_USART3_UART_Init	2
+../Src/main.c:419:13:MX_DMA_Init	1
+../Src/main.c:437:13:MX_GPIO_Init	1
+../Src/main.c:491:6:HAL_GPIO_EXTI_Callback	2
+../Src/main.c:505:6:Error_Handler	1

@@ -1,0 +1,5 @@
+../Src/main.c:69:5:_write	12	static,ignoring_inline_asm
+../Src/main.c:187:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Src/main.c:95:5:main	112	static,ignoring_inline_asm
+../Src/main.c:460:6:HAL_GPIO_EXTI_Callback	8	static
+../Src/main.c:474:6:Error_Handler	0	static,ignoring_inline_asm
