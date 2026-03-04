@@ -10,7 +10,7 @@ extern "C"
 #include "main.h"
 
 //#define EPD_42
-//#define EPD_29
+//#define EPD_29ffffff
 //#define EPD_213
 #define EPD_154
 
